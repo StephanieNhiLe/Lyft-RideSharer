@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/RideSharer-master.dia",
+    "emit-module-dependencies" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/RideSharer-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/RideSharer-master-emit-module.dia",
+    "swift-dependencies" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/RideSharer-master.swiftdeps"
+  },
+  "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/RideSharer/AppDelegate.swift" : {
+    "const-values" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/RideSharer/MapViewController.swift" : {
+    "const-values" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/MapViewController.swiftconstvalues",
+    "dependencies" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/MapViewController.d",
+    "diagnostics" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/MapViewController.dia",
+    "index-unit-output-path" : "/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/MapViewController.o",
+    "llvm-bc" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/MapViewController.bc",
+    "object" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/MapViewController.o",
+    "swift-dependencies" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/MapViewController.swiftdeps",
+    "swiftmodule" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/MapViewController~partial.swiftmodule"
+  },
+  "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/RideSharer/SceneDelegate.swift" : {
+    "const-values" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/stephanienhile/git/Dev Dock/iOS/Lyft/RideSharer_Map_Start/build/RideSharer.build/Debug-iphonesimulator/RideSharer.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  }
+}
